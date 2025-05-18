@@ -1,3 +1,3 @@
 # demo
 first file
-auther - vishal singh(jadon)
+auther - vishal singh jadoun
